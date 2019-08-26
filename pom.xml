@@ -8,10 +8,10 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.altoros.training</groupId>
-	<artifactId>LabCITravis</artifactId>
+	<groupId>com.altoros.training.lab</groupId>
+	<artifactId>CiTravisLab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LabCITravis</name>
+	<name>CiTravisLab</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
