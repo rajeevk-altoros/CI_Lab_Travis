@@ -1,4 +1,4 @@
-package com.altoros.training.lab.services;
+package com.altoros.training.lab.controllers;
 
 public class OverKillService {
 
