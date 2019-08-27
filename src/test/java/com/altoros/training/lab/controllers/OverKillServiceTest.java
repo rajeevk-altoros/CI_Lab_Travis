@@ -21,7 +21,7 @@ public class OverKillServiceTest {
     public void testNoValue(){
 
         String actual = "Hello Buttercup";
-        String result = overKillService.concatenate2("NotButter");
+        String result = overKillService.concatenate2("Butter");
         assertNotEquals (actual, result);
 
     }
