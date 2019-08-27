@@ -1,5 +1,5 @@
-----
+---
   applications:
-  - name: citravislab
-    memory: 687M
-    path: target/CiTravisLab-0.0.1-SNAPSHOT.jar
+  -  name: citravislab
+     memory: 687M
+     path: target/CiTravisLab-0.0.1-SNAPSHOT.jar
