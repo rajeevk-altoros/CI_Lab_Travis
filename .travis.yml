@@ -17,7 +17,6 @@ branches:
 
 deploy:
     provider: cloudfoundry
-    edge: true
     api: $CF_API
     username: $CF_USER
     password: $CF_PASS
